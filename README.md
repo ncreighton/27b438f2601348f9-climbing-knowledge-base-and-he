@@ -1,2 +1,34 @@
-# 27b438f2601348f9-climbing-knowledge-base-and-he
+# Climbing Knowledge Base and Help Center Plugin
+
 A comprehensive knowledge base and help center plugin designed specifically for the climbing industry.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/00w9AT26Hf6Q2hi5bucZe3g)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/00w9AT26Hf6Q2hi5bucZe3g)
+
